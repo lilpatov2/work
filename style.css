@@ -1,0 +1,52 @@
+.H {
+    border-style: solid;
+    background-color: #6bda83ef;
+    text-align: center;
+
+    
+}
+
+.H2 {
+    border-style: solid;
+    background-color: #6bda83ef;
+    text-align: left;
+    font-size: 1.5em;
+    line-height: 0.9;
+    
+}
+.S {
+    border-style: solid;
+    background-color: #6bda83ef;
+    text-align: left;
+    font-size: 1.5em;
+    word-wrap: break-word;
+    line-height: 0.9;
+}
+.j {
+    border-style: solid;
+    background-color: #6bda83ef;
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 0.9;
+    word-wrap: break-word;
+    
+}
+
+.P {
+    height: 50%; 
+    width: 50%;
+    display: block;
+    border: 2px solid black;
+    margin:auto;
+    
+}
+.f1 {
+    border-top: 5px solid #000000;
+    background-color:#6bda83ef ;
+    text-align: center;
+    font-size: large;
+}
+.K {
+    list-style-type: none;
+}
+
